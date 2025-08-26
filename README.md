@@ -454,6 +454,3 @@ The inspector provides a web UI to:
 ## License
 
 MIT
-
----
-
