@@ -9,11 +9,11 @@ startCommand:
     properties:
       neo4jUri:
         type: string
-        default: bolt://localhost:7687
+        default: ""
         description: The URI for the Neo4j database.
       neo4jUsername:
         type: string
-        default: neo4j
+        default: ""
         description: The username for the Neo4j database.
       neo4jPassword:
         type: string
